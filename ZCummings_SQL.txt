@@ -1,0 +1,54 @@
+/*Creates the main Users table, with the var chars set differentely to be effecient e.g. "female" is the longest gender so the make it can be is 6 characters */
+CREATE TABLE Users
+(
+	UserID		INT UNIQUE,
+    PRIMARY KEY (UserID),
+    
+	FirstName	VARCHAR(15),
+	LastName	VARCHAR(25),
+	Gender		VARCHAR(6),
+	Hometown	VARCHAR(25),
+	City		VARCHAR(25)
+);
+
+/*Creates friendships table, AUTO_INCREMENT is used since it isn't populated by the provided tables*/
+CREATE TABLE Friendships
+(
+	FriendID	INT	NOT NULL AUTO_INCREMENT,
+    PRIMARY KEY (FriendID),
+    
+	UserID_1	INT,
+	UserID_2	INT
+);
+
+/*Creates Messages table, however, issue might arise with the time as I am unsure if this is MySQL*/
+CREATE TABLE Messages
+(
+	MessagesID	INT	AUTO_INCREMENT,
+    PRIMARY KEY (MessagesID),
+    
+	UserID_1	INT,
+	UserID_2	INT,
+	Date_Time	TIMESTAMP,
+	Message		VARCHAR(255)
+);
+
+/*Effectivly Universities and Workplace are the same tables with different data*/
+CREATE TABLE Universities
+(
+	UniID		INT AUTO_INCREMENT,
+    PRIMARY KEY (UniID),
+    
+	UserID		INT,
+	University	VARCHAR(55)
+);
+CREATE TABLE Workplace
+(
+	WorkID		INT	AUTO_INCREMENT,
+    PRIMARY KEY (WorkID),
+    
+	UserID		INT,
+	Workplace	VARCHAR(55)
+);
+
+/*Might I request the course feedback link to my email, and if you can't find my email then send it to everyone, some people are having trouble finding it*/

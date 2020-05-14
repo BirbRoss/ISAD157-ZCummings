@@ -1,0 +1,12 @@
+D:\zacha\Documents\GitHub\ISAD157-ZCummings\ZCummings_SQL_Interface\ZCummings_SQL_Interface\obj\Debug\ZCummings_SQL_Interface.csprojAssemblyReference.cache
+D:\zacha\Documents\GitHub\ISAD157-ZCummings\ZCummings_SQL_Interface\ZCummings_SQL_Interface\obj\Debug\ZCummings_SQL_Interface.Form1.resources
+D:\zacha\Documents\GitHub\ISAD157-ZCummings\ZCummings_SQL_Interface\ZCummings_SQL_Interface\obj\Debug\ZCummings_SQL_Interface.Properties.Resources.resources
+D:\zacha\Documents\GitHub\ISAD157-ZCummings\ZCummings_SQL_Interface\ZCummings_SQL_Interface\obj\Debug\ZCummings_SQL_Interface.csproj.GenerateResource.cache
+D:\zacha\Documents\GitHub\ISAD157-ZCummings\ZCummings_SQL_Interface\ZCummings_SQL_Interface\obj\Debug\ZCummings_SQL_Interface.csproj.CoreCompileInputs.cache
+D:\zacha\Documents\GitHub\ISAD157-ZCummings\ZCummings_SQL_Interface\ZCummings_SQL_Interface\bin\Debug\ZCummings_SQL_Interface.exe.config
+D:\zacha\Documents\GitHub\ISAD157-ZCummings\ZCummings_SQL_Interface\ZCummings_SQL_Interface\bin\Debug\ZCummings_SQL_Interface.exe
+D:\zacha\Documents\GitHub\ISAD157-ZCummings\ZCummings_SQL_Interface\ZCummings_SQL_Interface\bin\Debug\ZCummings_SQL_Interface.pdb
+D:\zacha\Documents\GitHub\ISAD157-ZCummings\ZCummings_SQL_Interface\ZCummings_SQL_Interface\bin\Debug\MySql.Data.DLL
+D:\zacha\Documents\GitHub\ISAD157-ZCummings\ZCummings_SQL_Interface\ZCummings_SQL_Interface\obj\Debug\ZCummings_SQL_Interface.csproj.CopyComplete
+D:\zacha\Documents\GitHub\ISAD157-ZCummings\ZCummings_SQL_Interface\ZCummings_SQL_Interface\obj\Debug\ZCummings_SQL_Interface.exe
+D:\zacha\Documents\GitHub\ISAD157-ZCummings\ZCummings_SQL_Interface\ZCummings_SQL_Interface\obj\Debug\ZCummings_SQL_Interface.pdb
